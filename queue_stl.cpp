@@ -12,7 +12,7 @@ void explainQueue(){
 
 
 
-    q.back()+=5 
+    q.back()+=5;
 
 
     cout<< q.back();// prints 9
