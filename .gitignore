@@ -1,0 +1,11 @@
+*.exe
+*.o
+*.out
+
+.vscode/*.db
+.vscode/ipch/
+
+output.txt
+
+# Uncomment if you don't want to track input files
+input.txt
